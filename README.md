@@ -70,5 +70,9 @@ Ensure the following text callout lines point directly to these components in th
 5. **"Automated Environmental Contamination Shutter"** (Protective mechanical tracking plate near lenses)
 
 ---
+Copyright © 2026 april jablonski . All rights reserved.
+Effective Date: June 1, 2026
 
-## april Jablonski ownes all her works and publishing on github i do not authorize any modifications to my work or usage in any project . anyone that uses any aspect of any publishing under the entire repository your in violation of the law and are liable for thieft and damages done while you used it without my permission and consent 
+
+
+
