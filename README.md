@@ -71,5 +71,4 @@ Ensure the following text callout lines point directly to these components in th
 
 ---
 
-## 📜 Public Domain Notice
-This technical specification documentation is released into the Public Domain under the Creative Commons CC0 1.0 Universal Dedication. Anyone is free to copy, modify, distribute, or perform this work, even for commercial purposes, without asking permission.
+## april Jablonski ownes all her works and publishing on github i do not authorize any modifications to my work or usage in any project . anyone that uses any aspect of any publishing under the entire repository your in violation of the law and are liable for thieft and damages done while you used it without my permission and consent 
